@@ -1,0 +1,5 @@
+-insatll npm
+- install msql npm
+
+if u can connect open work bench and run this query
+ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY 'root'
